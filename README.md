@@ -33,3 +33,6 @@ Scatter plots
 Line charts
 These visualisations are used to identify patterns, distributions, differences
 between countries and relationships between variables
+
+Conclusion
+Overlooking my proceedings and findings we learned that there is a positive correlation between GDP and life expectancy. If a nation has a high life expectancy at birth in years they also tend to have a high GDP which is evident on 5 nations (Germany, USA, China, Mexico and Chile) whereas Zimbabwe has a low life expectancy, it correlates with their low GDP. Another trend that the charts allow us to visualise is the growth over time, as expected, the nations GDP and life expectency does show a steady growth over the years.
